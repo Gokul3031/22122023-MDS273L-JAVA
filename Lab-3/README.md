@@ -41,5 +41,3 @@ Exit: The user can exit the program by choosing the exit option.
 The system uses a static array of strings, studentNames, to store the names of the students and a 2-dimensional array of strings, studentDetails, to store the details of the students. The studentCount variable keeps track of the number of students in the system. The searchStudent method searches for a student by name and returns the index of the student in the arrays.
 
 The program implements a menu-driven interface and repeatedly displays the menu until the user chooses the exit option.
-
-flow cart:
